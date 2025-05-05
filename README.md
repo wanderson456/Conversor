@@ -31,7 +31,7 @@
 EUR      |     USD |
 | GBP      |BRL    |
 
-# Na classe principal substitua o " sua apy key " por uma apikey valida gerada.
+- Na classe principal substitua o " sua apy key " por uma apikey valida gerada.
 ```bash
  ServicoDeCambio servico = new ServicoDeCambio("sua api key")
 ```
