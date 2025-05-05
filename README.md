@@ -31,6 +31,11 @@
 EUR      |     USD |
 | GBP      |BRL    |
 
+# Na classe principal substitua o " sua apy key " por uma apikey valida gerada.
+```bash
+ ServicoDeCambio servico = new ServicoDeCambio("sua api key")
+```
+
 ## Autor 
 
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:franciscowanderson26@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-jord%C3%A3o-a394a615b)
