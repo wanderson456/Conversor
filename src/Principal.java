@@ -20,7 +20,7 @@ public class Principal {
 
 
         HistoricoConversao historico = new HistoricoConversao();
-        ServicoDeCambio servico = new ServicoDeCambio("7546a460f71243ac25acc562");
+        ServicoDeCambio servico = new ServicoDeCambio("sua api key");
         ConversorMoeda conversor = new ConversorMoeda(servico);
 
         while (true) {
